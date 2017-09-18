@@ -6,4 +6,4 @@ here are the resources of it
 
 license of the graphiks: CC-BY-SA 4.0
 
-(C)MBB 2017
+copyright (C)MBB 2017
